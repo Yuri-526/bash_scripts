@@ -3,7 +3,7 @@
 # This is a basic backup bash script with some cool functions.
 # It's not a masterpiece, of course, but I like it. It helps me a lot.
 # If it can also help you, I'm glad to share it.
-# Any problems or suggestions, please report me: <yurifs@proton.me>
+# Any problems or suggestions, please report me: <yurifs@atomicmail.io>
 # Peace. 
 
 # =========================
